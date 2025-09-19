@@ -54,7 +54,7 @@
  ###  Software & Tools
  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,git,github,latex,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pythorch,git,github,latex,mysql,sqlite" />
 </p>
 
  ###  IDEs
