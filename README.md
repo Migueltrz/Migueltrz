@@ -45,36 +45,31 @@
 ###  Programming languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,java,python" />
+  <img src="https://skillicons.dev/icons?i=c,python,r" />
 </p>
 
 ###  Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,javascript" />
+  <img src="https://skillicons.dev/icons?i=html" />
 </p>
 
  ###  Software & Tools
  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,googlesheets,markdown,stackoverflow,json,opengl,selenium,latex,django,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,googlesheets,json,mysql" />
 </p>
 
  ###  IDEs
  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,jetbrains,atom,eclipse" />
+  <img src="https://skillicons.dev/icons?i=vscode,atom,anaconda" />
 </p>
 
- ###  Competitive Programming & Problem Solving
- 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=codeforces,leetcode,hackerrank,codechef,google,codingame" />
-</p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,popos,manjaro" />
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
 </p>
 <br> 
 
