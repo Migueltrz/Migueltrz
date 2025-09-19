@@ -26,6 +26,7 @@
   <a href="mailto:migueltrz7901@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Mi correo" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="Mi LinkedIn" />
   </a>
