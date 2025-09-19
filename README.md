@@ -48,21 +48,17 @@
   <img src="https://skillicons.dev/icons?i=c,python,r" />
 </p>
 
-###  Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" />
-</p>
 
  ###  Software & Tools
  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,googlesheets,json,mysql" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,git,github,latex,mysql,sqlite" />
 </p>
 
  ###  IDEs
  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,atom,anaconda" />
+  <img src="https://skillicons.dev/icons?i=vscode,atom,anaconda,pycharm" />
 </p>
 
 
