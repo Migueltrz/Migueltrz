@@ -26,7 +26,8 @@
   <a href="mailto:migueltrz7901@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Mi correo" />
   </a>
-  <a href="https://www.linkedin.com/in/tu-perfil-de-linkedin/icons?i=linkedin&theme=dark" alt="Mi LinkedIn" />
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="Mi LinkedIn" />
   </a>
 	<!--<a href="mailto:migueltrz7901@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>-->
 	<!--<a href="https://wa.me/526561128847"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>-->
