@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Mi correo" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/miguel-terrazas-731b57200" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="Mi LinkedIn" />
   </a>
 	<!--<a href="mailto:migueltrz7901@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>-->
